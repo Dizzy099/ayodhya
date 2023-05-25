@@ -1,0 +1,102 @@
+body{
+    background-image: url('img/01.png');
+    /* height: 100%;  */
+
+    
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+} 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(7, 1, 24);
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    background-color: rgb(3, 3, 68);
+}
+
+.search {
+    margin-right: 4rem;
+
+
+
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    list-style: none;
+    margin: 0 23px;
+}
+
+.left {
+    font-size: 2rem;
+}
+
+.right {
+    font-size: 1.5rem;
+    margin: 280px;
+}
+
+.firstsection {
+    display: flex;
+    justify-content: space-around;
+    margin: 80px 0;
+}
+
+.firstsection>div {
+    width: 30%;
+
+}
+
+.leftsection {
+
+    width: 35px;
+    font-size: 1.4rem;
+}
+
+.rightsection img {
+    width: 95%;
+    margin-right: 20rem;
+    margin: -20px;
+    border-radius: 50%;
+}
+
+.icon {
+    font-size: .8rem;
+    width: 7rem;
+    height: 2rem;
+
+}
+
+.class {
+    border-radius: 50%;
+}
+
+.shubham {
+    color: rgb(250, 210, 8);
+}
+
+.sk {
+    color: blueviolet;
+}
+a{
+    align-items: center;
+    
+}
+a:hover{
+          color: rgb(243, 137, 7);
+}
